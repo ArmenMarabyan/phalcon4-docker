@@ -1,2 +1,2 @@
-./application/vendor
-./databases/*
+application/vendor
+databases/*
